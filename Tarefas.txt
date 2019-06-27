@@ -1,0 +1,18 @@
+1- Base de dados definida : https://www.kaggle.com/uciml/student-alcohol-consumption
+
+2- Quais são as perguntas de ciência de dados que vão ser abordadas : 
+
+
+Descreva brevemente a base, colunas, linhas, tipos de dados e natureza da mesma:
+O dataset escolhido contém 33 colunas.
+
+School: Define de qual classe o aluno é. É uma variável binária já que só tem informações de duas classes: Língua Portuguesa e Matemática. 382 estudantes pertencem à ambos datasets.
+Sex: Variável binária que define o genêro. (No caso só tem )
+Age: variável numérica representando a idade do estudantes
+Address: Zona do endereço do estudante. É uma variável binária: rural ou urbano.
+Famsize: Quantidade de integrantes na família. É uma variável binária: 3 ou menos integrantes ou mais que três.
+Pstatus: É uma variável binária que representa o status dos Pais: Moram juntos ou separados.
+Medu: É uma variável numérica que representa a escolaridade da mãe de 0 a 4. 
+Fedu: É uma variável numérica que representa a escolaridade do pai de 0 a 4.
+Mjob
+Pjob
